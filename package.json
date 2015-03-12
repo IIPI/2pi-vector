@@ -1,0 +1,19 @@
+{
+  "name": "IIPI-vector",
+  "version": "1.0.0",
+  "description": "Port of Processing Vector class to Javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IIPI/IIPI-vector.git"
+  },
+  "author": "Giulian Drimba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IIPI/IIPI-vector/issues"
+  },
+  "homepage": "https://github.com/IIPI/IIPI-vector"
+}
